@@ -1,0 +1,4 @@
+<!DOCTYPE codename-engine-character> <!-- Made with WizardMantis's Character Converter -->
+<character antialiasing="false" camx="-55" camy="130" holdTime="6.1" scale="0.8" sprite="gordonteen/Desk Guys" x="-70" y="-120">
+	<anim name="idle" anim="idle"/>
+</character>

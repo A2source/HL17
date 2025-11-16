@@ -1,0 +1,14 @@
+{
+    "params": [
+        {
+            "name": "Zoom",
+            "type": "Float(0.001, 100, 0.01, 2)",
+            "defaultValue": "1"
+        },
+        {
+            "name": "Is the zoom instant?",
+            "type": "Bool",
+            "defaultValue": "false"
+        }
+    ]
+}

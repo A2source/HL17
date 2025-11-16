@@ -1,0 +1,14 @@
+{
+    "params": [
+        {
+            "name": "Camera",
+            "type": "DropDown('camGame', 'camHUD', 'camOther', 'camBars')",
+            "defaultValue": "camGame"
+        },
+        {
+            "name": "Alpha",
+            "type": "Float(0, 1, 0.01, 2)",
+            "defaultValue": "1"
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="linkinteen/Kleiner P3" antialiasing="false" flipX="true" camx="-80" camy="80" isPlayer="true" icon="kleiner3" holdTime="4" color="#D8CA00" gameOverName="KLEINER">
+	<anim name="singLEFT" anim="singLEFT" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="singDOWN" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singUP" anim="singUP" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="singRIGHT" x="0" y="0" fps="24" loop="false"/>
+	<anim name="idle" anim="idle" x="0" y="0" fps="20" loop="false"/>
+</character>

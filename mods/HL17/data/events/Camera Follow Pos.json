@@ -1,0 +1,19 @@
+{
+    "params": [
+        {
+            "name": "X",
+            "type": "Float(0, 100000, 0.01, 2)",
+            "defaultValue": "0"
+        },
+        {
+            "name": "Y",
+            "type": "Float(0, 100000, 0.01, 2)",
+            "defaultValue": "0"
+        },
+        {
+            "name": "Reset Position",
+            "type": "Bool",
+            "defaultValue": "false"
+        }
+    ]
+}

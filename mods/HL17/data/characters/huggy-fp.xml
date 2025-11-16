@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="-70" y="-80" sprite="huggyteen/Huggy FP" antialiasing="false" camx="-550" camy="-10" icon="huggyteen" holdTime="6.1">
+	<anim name="singLEFT" anim="left" x="110" y="-9" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="down" x="354" y="-33" fps="24" loop="false"/>
+	<anim name="singUP" anim="up" x="65" y="14" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="right" x="-34" y="-32" fps="24" loop="false"/>
+	<anim name="idle" anim="idle" x="0" y="0" fps="24" loop="false"/>
+</character>

@@ -1,0 +1,14 @@
+{
+    "params": [
+        {
+            "name": "On Screen",
+            "type": "Bool",
+            "defaultValue": "true"
+        },
+        {
+            "name": "Length",
+            "type": "Float(0, 10000, 0.0001, 2)",
+            "defaultValue": "1"
+        }
+    ]
+}

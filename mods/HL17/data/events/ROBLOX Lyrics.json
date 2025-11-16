@@ -1,0 +1,24 @@
+{
+    "params": [
+        {
+            "name": "Text",
+            "type": "String",
+            "defaultValue": ""
+        },
+	{
+	    "name": "Position",
+	    "type": "StrumLine",
+	    "defaultValue": "0"
+	},
+	{
+	    "name": "X Offset",
+	    "type": "Float(0, 10000, 0.01, 2)",
+	    "defaultValue": "1"
+	},
+	{
+	    "name": "Y Offset",
+	    "type": "Float(0, 10000, 0.01, 2)",
+	    "defaultValue": "1"
+	}
+    ]
+}

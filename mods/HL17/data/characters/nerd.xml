@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<character y="-160" sprite="gordonteen/Nerd" antialiasing="false" camx="-20" camy="-25" icon="nerd" holdTime="6.1">
+	<anim name="singLEFT" anim="left" x="59" y="-19" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="down" x="27" y="-29" fps="24" loop="false"/>
+	<anim name="singUP" anim="up" x="29" y="19" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="right" x="1" y="-1" fps="24" loop="false"/>
+	<anim name="idle" anim="idle" x="0" y="0" fps="24" loop="false"/>
+	<anim name="scream" anim="scream" x="-41" y="1" fps="24" loop="true"/>
+</character>

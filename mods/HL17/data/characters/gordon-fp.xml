@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="60" y="280" sprite="huggyteen/Gordon FP" scale="1.3" antialiasing="false" camx="120" camy="-490" isPlayer="true" icon="lambda" color="#FFAA00" holdTime="6.1" gameOverName="FREEMAN">
+	<anim name="singLEFT" anim="right" x="-110" y="-96" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="down" x="65" y="-144" fps="24" loop="false"/>
+	<anim name="singUP" anim="up" x="-129" y="39" fps="24" loop="false" indices="3,3,1,1,1,1,1,1,1,1,1,1,1,1"/>
+	<anim name="singRIGHT" anim="left" x="170" y="55" fps="24" loop="false"/>
+	<anim name="idle" anim="idle" x="0" y="0" fps="24" loop="false"/>
+</character>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="nums.png">
+
+  <!-- Generated using [A2]'s XML Generator -->
+  <!-- https://a2source.github.io/ -->
+
+  <SubTexture name="0" x="0" y="0" width="24" height="24"/>
+  <SubTexture name="1" x="24" y="0" width="24" height="24"/>
+  <SubTexture name="2" x="48" y="0" width="24" height="24"/>
+  <SubTexture name="3" x="72" y="0" width="24" height="24"/>
+  <SubTexture name="4" x="96" y="0" width="24" height="24"/>
+  <SubTexture name="5" x="0" y="24" width="24" height="24"/>
+  <SubTexture name="6" x="24" y="24" width="24" height="24"/>
+  <SubTexture name="7" x="48" y="24" width="24" height="24"/>
+  <SubTexture name="8" x="72" y="24" width="24" height="24"/>
+  <SubTexture name="9" x="96" y="24" width="24" height="24"/>
+</TextureAtlas>

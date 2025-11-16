@@ -1,0 +1,14 @@
+{
+    "params": [
+        {
+            "name": "Alpha",
+            "type": "Float(0, 1, 0.01, 2)",
+            "defaultValue": "1"
+        },
+        {
+            "name": "Time",
+            "type": "Float(0, 10000, 0.01, 2)",
+            "defaultValue": "1"
+        }
+    ]
+}
